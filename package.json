@@ -1,0 +1,17 @@
+{
+  "name": "roadmate",
+  "version": "0.1.0",
+  "description": "A bundle of some sensible build configurations",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdrose/roadmate.git"
+  },
+  "keywords": ["build", "starter", "configuration"],
+  "author": "Matt Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattdrose/roadmate/issues"
+  },
+  "homepage": "https://github.com/mattdrose/roadmate#readme"
+}
